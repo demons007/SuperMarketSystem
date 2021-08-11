@@ -1,6 +1,7 @@
 # SuperMarketSystem
 SuperMarketSystem.py
-SetUp::
+
+Options::::--
 ------------------Welcome to the supermarket------------------
 1. View items
 2. Add items for sale
